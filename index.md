@@ -15,9 +15,4 @@ Robots have found their way into society only for task-oriented goals, such as c
 For example, consider a socially assistive robot placed in the university students' residential rooms. It can assist university students in their everyday life tasks and monitor their wellbeing during stressful periods of their uni life (e.g., mid-terms, finals). If the student is too stressed out or is close to burnout, the robot could perceive the emotional and mental state of the student - detecting the emotion, stress, and depression levels of the student - and adapt to the student’s needs, specifically it could respond empathically trying to support the student conversationally, and  promoting mindfulness sessions, or suggesting external support  (e.g., “I know that exams are really stressful, but you need to take some time for yourself, would you like to do a meditation session?”). In this situation, if a robot is not able to comfort the student properly (e.g., if the student is stressed out for university exams, the robot keeps reminding him/her about the deadlines), this leads to student’s frustration fueling the risk of perceiving the robot as asocial and reducing the student’s willingness to interact with it.
 
 
-
-{% include toc.html %}
-
-------
-
 {% include template/credits.html %}
