@@ -1,6 +1,6 @@
 ---
-title: Get Started
-nav: Start
+title: Invited Speakers
+nav: Invited Speakers
 topics: Template; Basic Config
 ---
 

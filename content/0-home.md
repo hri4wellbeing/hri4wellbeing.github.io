@@ -1,6 +1,6 @@
 ---
-title: Home
-nav: Intro
+title:
+nav: Home
 ---
 
 # Workshop on Human-Robot Interaction for Wellbeing (HRI4Wellbeing) 
