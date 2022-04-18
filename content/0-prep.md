@@ -1,7 +1,7 @@
 ---
-title: Workshop Prep
-nav: Prep
-topics: GitHub; Optional Software
+title: HRI4Wellbeing
+nav: Home
+topics: Socio-Emotionally Adaptive Robots
 ---
 
 To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
