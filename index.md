@@ -6,7 +6,7 @@ layout: default
 #The 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2022)
 
 
-{% include figure.html img="images/wellbeing_pic.jpg" alt="home page image" caption="" width="75%" %}
+{% include figure.html img="./images/wellbeing_pic.jpg" alt="home page image" caption="" width="75%" %}
 
 The main topic of our workshop will be socially adaptive robots for wellbeing, which aligns strongly with the RO-MAN 2022 theme in making robots adaptive and emotional to be socially accepted in different contexts (i.e., clinical and not clinical)  - “robots capable of being welcomed as our assistants and companions in society while, at the same time, not being perceived as “asocial” or “antisocial”.
 
