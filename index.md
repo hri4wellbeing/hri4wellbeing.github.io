@@ -3,7 +3,8 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template!
+#The 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2022)
+
 
 {% include figure.html img="images/wellbeing_pic.jpg" alt="home page image" caption="" width="75%" %}
 
