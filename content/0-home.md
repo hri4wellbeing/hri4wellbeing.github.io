@@ -1,10 +1,10 @@
 ---
+title: Home
 nav: Home
 ---
 
 # Workshop on Human-Robot Interaction for Wellbeing (HRI4Wellbeing) 
 ## Socio-Emotionally Adaptive Robots
-
 
 {% include figure.html img="wellbeing_pic.jpg" alt="wellbeing-pic" caption="" width="85%" %}
 
