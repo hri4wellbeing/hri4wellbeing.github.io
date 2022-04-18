@@ -1,5 +1,4 @@
 ---
-title: Program
 nav: Program
 ---
 
