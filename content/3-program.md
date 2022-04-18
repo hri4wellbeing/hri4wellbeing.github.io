@@ -1,14 +1,10 @@
 ---
 title: Program
 nav: Program
-topics: Content; Markdown; Includes
-description: >
-    This text is a "section description". Below is "section topics", followed by an example section video embed. This page details how to write content pages and add interest with includes.
-youtubeid: moJgWrD6dwg
 ---
 
-## Content Pages
-
+## To be updated...
+<!--
 Content pages are written in markdown and can be enhanced using Liquid includes that are packaged with the template.
 Start by editing the examples or creating new files in the "content" folder.
 
@@ -149,3 +145,4 @@ Include code:
 Becomes: 
 
 {% include jumbotron.html heading="Jumbotron Include" text="Paragraph content goes here." button-text="Learn more" button-color="outline-primary" button-link="https://github.com/evanwill/workshop-template-b" border=true %}
+-- >

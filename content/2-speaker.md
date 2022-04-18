@@ -1,7 +1,6 @@
 ---
-title: Invited Speakers
-nav: Invited Speakers
-topics: Template; Basic Config
+title: Speakers
+nav: Speakers
 ---
 
 The [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) is a template project --> to get started quickly, make a copy and replace the demo with your own content and customizations.
