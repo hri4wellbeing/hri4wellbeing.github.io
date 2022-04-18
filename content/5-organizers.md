@@ -1,5 +1,5 @@
 ---
-title: 
+title: Workshop Organizers
 nav: Organizers
 ---
 
