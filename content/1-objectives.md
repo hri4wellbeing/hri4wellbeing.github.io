@@ -1,5 +1,5 @@
 ---
-title: 
+title: Workshop Objectives
 nav: Objectives
 ---
 

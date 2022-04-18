@@ -17,9 +17,9 @@ Emilia I. Barakova received a Ph.D. degree in mathematics and physics from Groni
 Hatice Gunes is a Professor of Affective Intelligence and Robotics (AFAR) and the Head of the AFAR Lab at the University of Cambridge's Department of Computer Science and Technology. Her expertise is in the areas of affective computing and social signal processing cross-fertilising research in multimodal interaction, computer vision, signal processing, machine learning and social robotics. She has published over 125 papers in these areas (H-index=34, citations > 6,000),  with  most  recent  works  on lifelong learning for facial expression recognition, fairness and affective robotics; and longitudinal HRI for wellbeing. She was one of the Guest Editors of the 2021 IEEE Transactions on Affective Computing Special Issue on Automated Perception of Human Affect from Longitudinal Behavioral Data. Other research highlights  include  RSJ/KROS  Distinguished  Interdisciplinary Research Award Finalist at IEEE RO-MAN’21, Distinguished PC Award at IJCAI’21, Best Paper Award Finalist at IEEE RO-MAN’20, Finalist for the 2018 Frontiers Spotlight Award, Outstanding Paper Award at IEEE FG’11, and Best Demo Award at IEEE ACII’09. Prof Gunes is the former President of the Association for the Advancement of Affective Computing (AAAC), and was the General Co-Chair of ACII’19, and the Program Co-Chair of ACM/IEEE HRI’20 and IEEE FG’17. She was a member of the Human-Robot Interaction Steering Committee (2018-2021) and was the Chair of the Steering Board of IEEE Transactions on Affective Computing (2017-2019). In 2019 she was awarded the prestigious EPSRC Fellowship as a personal grant to investigate adaptive robotic emotional intelligence for wellbeing and was named a Faculty Fellow of the Alan Turing Institute– UK’s national centre for data science and artificial intelligence (2019-2021). Prof Gunes is a Senior Member of the IEEE and a member of the AAAC.
 
 ## Tentative Committee (TBD)
-Nikhil Churamani (University of Cambridge, UK)
-Minja Axelsson (University of Cambridge, UK)
-Fabio Catania (Politecnico di Milano, Italy)
-Angelo Cangelosi (University of Manchester)
-Catherine Oertel (TU Delft)
-Drazen Brscic (Kyoto University)
+- Nikhil Churamani (University of Cambridge, UK)
+- Minja Axelsson (University of Cambridge, UK)
+- Fabio Catania (Politecnico di Milano, Italy)
+- Angelo Cangelosi (University of Manchester)
+- Catherine Oertel (TU Delft)
+- Drazen Brscic (Kyoto University)
