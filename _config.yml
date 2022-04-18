@@ -24,7 +24,7 @@ keywords: "HRI, Wellbeing, RO-MAN"
 # use a relative path to image in this repository or full URL
 featured-image: "/images/wellbeing_pic.jpg"
 # add search box to footer? true/false
-search: true
+search: false
 
 # author settings for cc-by, appears in the footer and credits
 author: Sooyeon Jeong
