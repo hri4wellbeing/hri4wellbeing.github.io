@@ -14,3 +14,6 @@ This workshop aims to bring together researchers from the fields of Social Robot
 
 We invite authors to submit their contributions either regular paper (6-8 pages long) or position papers (2-4 pages long), using the format provided by RO-MAN (http://www.smile.unina.it/ro-man2022/call-for-papers/). All papers are to be submitted via the submission system of EasyChair. 
 In tandem with this workshop, we are preparing a Special Issue proposal that we will submit to the  Frontiers in Robotics and AI. Selected papers from the workshop will be considered for this special issue (we will also issue an open call). Submissions to the special issue will go through a separate peer review process.
+
+## Special Issue
+We plan to publish a Special Issue containing contributions from workshop participants as well as other researchers working on related works to collect the knowledge and insights gained during the workshop. We are currently preparing a Special Issue proposal to be submitted to the International Journal of Social robotics.
