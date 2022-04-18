@@ -3,23 +3,23 @@ title: Keynote and Invited Talks
 nav: Speakers
 ---
 
-## Keynote 
-#### Hae Won Park, MIT Media Lab
+### Keynote 
+##### Hae Won Park, MIT Media Lab
 Hae Won Park is a Research Scientist at the Personal Robots Group. She is also a Principal Investigator for the Social Robot Companions for Aging Program, leading the long-term personalization of interactive AI systems in domains that help human flourishing. She oversees and closely works with students on many projects including early childhood education, healthcare, eldercare,  family interaction, and emotional wellness. Before, she was a PhD student at the Institute of Robotics and Intelligent Machines (IRIM) at Georgia Tech, where Hae Won was a member of the Human-Automation Systems (HumAnS) Laboratory advised by Prof. Ayanna Howard. While doing her PhD, Hae Won co-founded Zyrobotics, a spin-off from Georgia Tech that is licensing the three patents from her research. 
 
-#### Maja Mataric, University of Southern California
+##### Maja Mataric, University of Southern California
 Maja Matarić is a Chan Soon-Shiong distinguished professor of Computer Science, Neuroscience, and Pediatrics at the University of Southern California, founding director of the USC Robotics and Autonomous Systems Center (rasc.usc.edu), co-director of the USC Robotics Research Lab (robotics.usc.edu), past interim Vice President of Research (Jan 2020-Jul 2021), past Vice Dean for Research (Jul 2006-Dec 2019) and past President of the USC faculty and the Academic Senate (2005-06). She received her PhD in Computer Science and Artificial Intelligence from MIT in 1994, MS in Computer Science from MIT in 1990, and BS in Computer Science from the University of Kansas in 1987. She is a Fellow of the American Association for the Advancement of Science (AAAS), IEEE, AAAI, and ACM, and recipient of the US Presidential Award for Excellence in Science, Mathematics, and Engineering Mentoring (PAESMEM) from President Obama, and the Okawa Foundation, NSF Career, the MIT TR100 Innovation, the IEEE Robotics and Automation Society Early Career, the Anita Borg Institute Women of Vision Innovation, Viterbi School Service Award and Junior Research Awards, and is featured in the documentary movie "Me & Isaac Newton." She is an advisory editor of three major journals and has published extensively in various areas of robotics. Here is her Google Scholar profile. Prof. Mataric' is actively involved in K-12 outreach, leading the USC Viterbi K-12 STEM Center and developing free curricular materials for elementary and middle-school robotics courses in order to engage student interest in science, technology, engineering, and math (STEM) topics. Her Interaction Lab's research into socially assistive robotics is aimed at endowing robots with the ability to help people reach their potential through individual assistance (for convalescence, rehabilitation, training, and education) and team cooperation (for habitat monitoring and emergency response). Research details are found at robotics.usc.edu/interaction.
 
-#### Rafael A Calvo, Imperial College
+##### Rafael A Calvo, Imperial College
 Rafael A. Calvo, PhD (2000) is Professor at Imperial College London focusing on the design of systems that support wellbeing in areas of mental health, medicine and education, and on the ethical challenges raised by new technologies. In 2015 Calvo was appointed a Future Fellow of the Australian Research Council to study the design of wellbeing-supportive technology.
 
-## Invited Talks
+### Invited Talks
 The multidisciplinary nature of this workshop brings together the synergy of multiple areas, such as Psychology and Machine Learning.  For this reason, besides the keynote speakers, we invite two experts in the field of Psychology and Machine Learning to provide their perspectives via a short presentation (around 15 minutes):
 
-#### Deirdre Logan, Boston Children's Hospital, Harvard Medical School
+##### Deirdre Logan, Boston Children's Hospital, Harvard Medical School
 Deirdre Logan, Ph.D. ABPP, is a pediatric psychologist in the Department of Anesthesia at Boston Children’s Hospital (BCH) and associate professor of psychology, Department of Psychiatry, Harvard Medical School. Since 2008 she has served as Director of Psychology Services for the Division of Pain Medicine at BCH. She directs the postdoctoral fellowship training program in pediatric pain psychology and is a member of the ACGME pain fellow training committee at BCH. Dr. Logan received her PhD in Clinical Psychology at the University of Michigan and completed postdoctoral training in pediatric psychology at The Children’s Hospital of Philadelphia, where she subsequently served on faculty in the Pain Management Program, Department of Anesthesia. 
 
-#### Ognjen (Oggi) Rudovic, Apple
+##### Ognjen (Oggi) Rudovic, Apple
 needs bio..?
 
 <!--Open floor discussion: This workshop seeks to address the open challenges reported above (RC1 - RC3) with the contributed papers and the invited speaker presentations. During an open floor discussion, we will address those challenges and discuss possible solutions. Those challenges are provisional, and will change according to the keynote speakers’ talks and the paper submissions. 
