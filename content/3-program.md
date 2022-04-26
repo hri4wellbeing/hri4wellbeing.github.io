@@ -3,7 +3,7 @@ title: Program Schedule
 nav: Program
 ---
 
-##### All times are in Central European Time.
+##### All times are in Central European Time (CET).
 
 
 | Time (CET)    | Program               | 
