@@ -42,7 +42,7 @@ Emilia I. Barakova received a Ph.D. degree in mathematics and physics from Groni
 
 ### [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/)
 {% include figure.html img="Hatice.jpg" alt="hatice-pic" caption="" width="25%" %}
-Professor of Affective Intelligence & Robotics; Leader of Affective Intelligence & Robotics Lab\
+Professor of Affective Intelligence & Robotics\
 Department of Computer Science and Technology, University of Cambridge\
 William Gates Building, 15 JJ Thomson Avenue, Cambridge, CB3 0FD, UK\
 Hatice.Gunes@cl.cam.ac.uk

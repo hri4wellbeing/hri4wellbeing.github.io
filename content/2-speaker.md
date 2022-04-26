@@ -1,9 +1,8 @@
 ---
-title: Keynote and Invited Talks
+title: Keynote Speakers
 nav: Speakers
 ---
 
-## Keynote 
 ### Hae Won Park, MIT Media Lab
 {% include figure.html img="haewon_profile.JPG" alt="haewon-pic" caption="" width="25%" %}
 Hae Won Park is a Research Scientist at the Personal Robots Group. She is also a Principal Investigator for the Social Robot Companions for Aging Program, leading the long-term personalization of interactive AI systems in domains that help human flourishing. She oversees and closely works with students on many projects including early childhood education, healthcare, eldercare,  family interaction, and emotional wellness. Before, she was a PhD student at the Institute of Robotics and Intelligent Machines (IRIM) at Georgia Tech, where Hae Won was a member of the Human-Automation Systems (HumAnS) Laboratory advised by Prof. Ayanna Howard. While doing her PhD, Hae Won co-founded Zyrobotics, a spin-off from Georgia Tech that is licensing the three patents from her research. 
@@ -25,9 +24,11 @@ Rafael A. Calvo, PhD (2000) is Professor at Imperial College London focusing on 
 
 ---
 
-## Invited Talks
+# Invited Talks
 The multidisciplinary nature of this workshop brings together the synergy of multiple areas, such as Psychology and Machine Learning.  For this reason, besides the keynote speakers, we invite two experts in the field of Psychology and Machine Learning to provide their perspectives via a short presentation (around 15 minutes):
 {: style="text-align: justify"}
+
+---
 
 ### Deirdre Logan, Boston Children's Hospital, Harvard Medical School
 Deirdre Logan, Ph.D. ABPP, is a pediatric psychologist in the Department of Anesthesia at Boston Children’s Hospital (BCH) and associate professor of psychology, Department of Psychiatry, Harvard Medical School. Since 2008 she has served as Director of Psychology Services for the Division of Pain Medicine at BCH. She directs the postdoctoral fellowship training program in pediatric pain psychology and is a member of the ACGME pain fellow training committee at BCH. Dr. Logan received her PhD in Clinical Psychology at the University of Michigan and completed postdoctoral training in pediatric psychology at The Children’s Hospital of Philadelphia, where she subsequently served on faculty in the Pain Management Program, Department of Anesthesia. 
