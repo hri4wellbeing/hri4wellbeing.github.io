@@ -16,6 +16,8 @@ Maja Matarić is a Chan Soon-Shiong distinguished professor of Computer Science,
 {% include figure.html img="RafaPhoto.jpg" alt="rafael-pic" caption="" width="25%" %}
 Rafael A. Calvo, PhD (2000) is Professor at Imperial College London focusing on the design of systems that support wellbeing in areas of mental health, medicine and education, and on the ethical challenges raised by new technologies. In 2015 Calvo was appointed a Future Fellow of the Australian Research Council to study the design of wellbeing-supportive technology.
 
+---
+
 ### Invited Talks
 The multidisciplinary nature of this workshop brings together the synergy of multiple areas, such as Psychology and Machine Learning.  For this reason, besides the keynote speakers, we invite two experts in the field of Psychology and Machine Learning to provide their perspectives via a short presentation (around 15 minutes):
 
