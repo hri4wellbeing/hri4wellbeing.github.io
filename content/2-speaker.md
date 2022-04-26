@@ -32,14 +32,14 @@ The multidisciplinary nature of this workshop brings together the synergy of mul
 ---
 
 ### Deirdre Logan, Boston Children's Hospital
-{% include figure.html img="deirdrelogan.jpg" alt="maja-pic" caption="" width="25%" %}
+{% include figure.html img="deirdrelogan.jpg" alt="dl-pic" caption="" width="25%" %}
 Deirdre Logan, Ph.D. ABPP, is a pediatric psychologist in the Department of Anesthesia at Boston Children’s Hospital (BCH) and associate professor of psychology, Department of Psychiatry, Harvard Medical School. Since 2008 she has served as Director of Psychology Services for the Division of Pain Medicine at BCH. She directs the postdoctoral fellowship training program in pediatric pain psychology and is a member of the ACGME pain fellow training committee at BCH. Dr. Logan received her PhD in Clinical Psychology at the University of Michigan and completed postdoctoral training in pediatric psychology at The Children’s Hospital of Philadelphia, where she subsequently served on faculty in the Pain Management Program, Department of Anesthesia. 
 {: style="text-align: justify"}
 
 ---
 
 ### Ognjen (Oggi) Rudovic
-{% include figure.html img="oggi.jpg" alt="maja-pic" caption="" width="25%" %}
+{% include figure.html img="oggi.jpg" alt="oggi-pic" caption="" width="25%" %}
 Ognjen Rudovic received the PhD degree from Imperial College London, U.K., in 2014. He is currently a research affiliate with the Affective Computing Group, MIT Media Lab, developing models for personalized machine learning from human data. He worked on machine-learning and computer vision models for automated analysis of human facial behavior with Imperial College London. He was the recipient of the Marie Curie Fellowship and the prestigious European Fellowship for rising scientists. His work has been featured in Science Robotics, New Scientist, and the BBC radio.
 {: style="text-align: justify"}
 
