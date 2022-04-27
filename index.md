@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## The 1st Workshop on Human-Robot Interaction for Wellbeing (HRI4Wellbeing)
-### Socio-Emotionally Adaptive Robots
+### Socially Adaptive Robots
 
 
 {% include figure.html img="huggable.jpg" alt="wellbeing-pic" caption="" width="95%" %}
