@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-## The 1st Workshop on Human-Robot Interaction for Wellbeing (HRI4Wellbeing)
+## Human-Robot Interaction for Wellbeing (HRI4Wellbeing)
 ### Socially Adaptive Robots
 
 **Full-day Hybrid workshop on September 2nd, 2022 as part of the IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2022)**
