@@ -7,6 +7,7 @@ layout: default
 ### Socially Adaptive Robots
 
 When: September 2nd, 2022. Full day event.
+
 Where: Hybrid workshop as part of the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2022)
 
 {% include figure.html img="huggable.jpg" alt="wellbeing-pic" caption="" width="95%" %}
