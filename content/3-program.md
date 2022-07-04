@@ -8,17 +8,16 @@ nav: Program
 
 | Time (CET)    | Program               | 
 | ------------- |:---------------------:| 
-| 9:00          | Openings              | 
-| 9:15          | Invited Talk 1        | 
-| 9:30          | Keynote Talk 1        | 
+| 9:15          | Openings        | 
+| 9:30          | Keynote Talk: Rafael A Calvo, Imperial College      | 
 | 10:30         | Break                 | 
 | 11:00         | Paper presentations   | 
-| 12:00         | Lunch                 | 
-| 13:30         | Keynote talk          | 
-| 14:30         | Break                 | 
+| 12:00         | Keynote talk:  Maja Mataric, University of Southern California          | 
+| 13:00         | Lunch            | 
+| 14:30         | Invited Talk: Deirdre Logan, Boston Children's Hospital                 | 
 | 15:00         | Paper presentations   | 
 | 16:00         | Open floor discussion | 
 | 16:45         | Break                 | 
-| 17:00         | Keynote talk          | 
-| 18:00         | Invited talk          | 
+| 17:00         | Keynote talk: Hae Won Park, MIT Media Lab          | 
+| 18:00         | Invited talk: Ognjen (Oggi) Rudovic          | 
 | 18:15         | Closing               | 
