@@ -7,9 +7,9 @@ All questions about submissions should be emailed to <hri4wellbeing@gmail.com>.
 
 ## Important Dates
 - Call for papers deadline EXTENDED: 1st July 2022 
-- Notification of acceptance: 15th July 2022
+- Notification of acceptance EXTENDED: 20th July 2022
 - Camera-ready deadline: 15th August 2022
-- Workshop day: 2nd September (provisional)
+- Workshop day: 2nd September
 
 ## Call for Papers 
 This workshop aims to bring together researchers from the fields of Social Robotics, Human-Robot Interaction, Affective Computing, Wellbeing, Design, Adaptive Machine Learning, Ethics, Social Sciences, etc. to discuss topics related to the use of robots as assistant/companion/coach for wellbeing, the issues they face to personalize to the individual avoiding to being perceived as antisocial or asocial in the domestic context. 
