@@ -7,7 +7,7 @@ All questions about submissions should be emailed to <hri4wellbeing@gmail.com>.
 
 ## Important Dates
 - Call for papers deadline EXTENDED: 1st July 2022 
-- Notification of acceptance EXTENDED: 20th July 2022
+- Notification of acceptance EXTENDED: 22th July 2022
 - Camera-ready deadline: 15th August 2022
 - Workshop day: 2nd September
 
