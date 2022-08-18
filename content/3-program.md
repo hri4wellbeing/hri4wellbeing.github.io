@@ -6,12 +6,12 @@ nav: Program
 ##### All times are in Central European Time (CET).
 
 
-| Time &nbsp; &nbsp; | Program               | 
+| Time | Program               | 
 | ------------- |-----------------------| 
-| 9:15          | Openings        | 
-| 9:30          | Keynote Talk: Rafael A Calvo, Imperial College      | 
-| 10:30         | Break                 | 
-| 11:00         | Paper Presentation   |
+| 9:15  &nbsp; &nbsp;  | Openings        | 
+| 9:30   &nbsp; &nbsp; | Keynote Talk: Rafael A Calvo, Imperial College      | 
+| 10:30  &nbsp; &nbsp; | Break                 | 
+| 11:00   &nbsp; &nbsp;  | Paper Presentation   |
 |               | * "Loneliness in daily-life, could agents & robots help and how? Presentation and first elements of validation of the LAAM or Life-companion Agent Acceptance Model", Brice Pablo Diesbach, Jean-Philippe Galan and Michele Grimaldi |
 |               | * "Explorative Study on Human Intuitive Responses to Observing Expressive Robot Behavior", Marieke van Otterdijk, Diana Saplacan, Bruno Laeng and Jim Torresen |
 |               | * "Adaptive Robot-Assisted Autism Intervention for Children with ASD", Anara Sandygulova, Aida Amirova, Aida Zhanatkyzy, Zhansaule Telisheva and Nazerke Rakhymbayeva |
