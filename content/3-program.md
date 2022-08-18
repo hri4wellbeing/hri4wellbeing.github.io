@@ -7,7 +7,7 @@ nav: Program
 
 
 | Time       | Program                 | 
-| ---------- | :----------------------- | 
+| :----------: | :----------------------- | 
 | 9:15       | Openings                | 
 | 9:30       | Keynote Talk: Rafael A Calvo, Imperial College      | 
 | 10:30      | Break                   | 
