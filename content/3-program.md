@@ -15,7 +15,7 @@ nav: Program
 | 12:00         | Keynote talk:  Maja Mataric, University of Southern California          | 
 | 13:00         | Lunch            | 
 | 14:30         | Invited Talk: Deirdre Logan, Boston Children's Hospital                 | 
-| 15:00         | <ul>  <li>"Design of child-robot interactions for comfort and distraction from post-operative pain and distress", Oriana Ferrari, Feiran Zhang, Jules van Gurp, Ayrton Braam, Frank Broz and Emilia Barakova</li> <li>"A Social Robot for Emotion Recognition and Burden Levels Assessment for Informal Caregivers", Samuel Millan Norman and Carolina Fuentes</li> <li>"Online Learners’ Cognitive-Affective States Awareness to support Wellbeing and Self-Regulation Skills", Marie-Luce Bourguet, Jacqueline Urakami and Gentiane Venture</li> <li> </li>  </ul> |  
+| 15:00         | <ul>  <li>"Design of child-robot interactions for comfort and distraction from post-operative pain and distress", Oriana Ferrari, Feiran Zhang, Jules van Gurp, Ayrton Braam, Frank Broz and Emilia Barakova</li> <li>"A Social Robot for Emotion Recognition and Burden Levels Assessment for Informal Caregivers", Samuel Millan Norman and Carolina Fuentes</li> <li>"Online Learners’ Cognitive-Affective States Awareness to support Wellbeing and Self-Regulation Skills", Marie-Luce Bourguet, Jacqueline Urakami and Gentiane Venture</li> </ul> |  
 | 16:00         | Open floor discussion | 
 | 16:45         | Break                 | 
 | 17:00         | Keynote talk: Hae Won Park, MIT Media Lab          | 
