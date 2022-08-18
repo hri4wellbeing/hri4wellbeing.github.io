@@ -6,7 +6,7 @@ nav: Program
 ##### All times are in Central European Time (CET).
 
 
-| Time      | Program                 | 
+| Time (CET)| Program                 | 
 | --------- | ----------------------- | 
 | 9:15      | Openings                | 
 | 9:30      | Keynote Talk: Rafael A Calvo, Imperial College      | 
