@@ -18,11 +18,13 @@ nav: Program
 |            | &nbsp; * "Towards social embodied cobots: The integration of an industrial cobot with a social virtual agent", Matteo Lavit Nicora, Sebastian Beyrodt, Dimitra Tsovaltzi, Fabrizio Nunnari, Patrick Gebhard and Matteo Malosio |  
 | 12:00      | &nbsp; Invited Talk: Ognjen (Oggi) Rudovic          | 
 | 12:45      | &nbsp; Lunch            | 
-| 14:30      | &nbsp; Invited Talk: Deirdre Logan, Boston Children's Hospital                 | 
-| 15:00      | &nbsp; Paper Presentation |
+| 14:15      | &nbsp; Invited Talk: Deirdre Logan, Boston Children's Hospital                 | 
+| 14:45      | &nbsp; Paper Presentation |
 |            | &nbsp; * "Design of child-robot interactions for comfort and distraction from post-operative pain and distress", Oriana Ferrari, Feiran Zhang, Jules van Gurp, Ayrton Braam, Frank Broz and Emilia Barakova |
 |            | &nbsp; * "A Social Robot for Emotion Recognition and Burden Levels Assessment for Informal Caregivers", Samuel Millan Norman and Carolina Fuentes|
 |            | &nbsp; * "Online Learners’ Cognitive-Affective States Awareness to support Wellbeing and Self-Regulation Skills", Marie-Luce Bourguet, Jacqueline Urakami and Gentiane Venture |  
+|            | &nbsp; * "Can Robots Help in the Evaluation of Mental Wellbeing in Children? An Empirical Study", Nida Itrat Abbasi, Micol Spitale, Joanna Anderson, Tamsin Ford, Peter B. Jones and Hatice Gunes |
+| 15:45      | &nbsp; Break |
 | 16:00      | &nbsp; Keynote Talk:  Maja Mataric, University of Southern California | 
 | 16:45      | &nbsp; Break                 | 
 | 17:00      | &nbsp; Keynote Talk: Hae Won Park, MIT Media Lab          | 
