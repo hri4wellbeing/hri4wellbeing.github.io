@@ -17,7 +17,7 @@ nav: Program
 |            | &nbsp; * "Adaptive Robot-Assisted Autism Intervention for Children with ASD", Anara Sandygulova, Aida Amirova, Aida Zhanatkyzy, Zhansaule Telisheva and Nazerke Rakhymbayeva |
 |            | &nbsp; * "Towards social embodied cobots: The integration of an industrial cobot with a social virtual agent", Matteo Lavit Nicora, Sebastian Beyrodt, Dimitra Tsovaltzi, Fabrizio Nunnari, Patrick Gebhard and Matteo Malosio |  
 | 12:00      | &nbsp; Invited Talk: Ognjen (Oggi) Rudovic          | 
-| 12:30      | &nbsp; Lunch            | 
+| 12:45      | &nbsp; Lunch            | 
 | 14:30      | &nbsp; Invited Talk: Deirdre Logan, Boston Children's Hospital                 | 
 | 15:00      | &nbsp; Paper Presentation |
 |            | &nbsp; * "Design of child-robot interactions for comfort and distraction from post-operative pain and distress", Oriana Ferrari, Feiran Zhang, Jules van Gurp, Ayrton Braam, Frank Broz and Emilia Barakova |
@@ -26,5 +26,4 @@ nav: Program
 | 16:00      | &nbsp; Keynote Talk:  Maja Mataric, University of Southern California | 
 | 16:45      | &nbsp; Break                 | 
 | 17:00      | &nbsp; Keynote Talk: Hae Won Park, MIT Media Lab          | 
-| 18:00      | &nbsp; Open Floor Discussion           | 
-| 18:30      | &nbsp; Closing               | 
+| 17:45      | &nbsp; Closing           | 
