@@ -18,12 +18,13 @@ Micol Spitale is currently a PostDoc at the Affective Intelligence & Robotics La
 
 ### [Sooyeon Jeong](https://www.sooyeonjeong.com/)
 {% include figure.html img="SooyeonJeong.jpg" alt="sooyeon-pic" caption="" width="25%" %}
-Research Assistant at Personal Robots Group\
-MIT Media Lab\
-77 Mass. Ave. E15, Cambridge, MA 02139-4307 USA\
-sooyeon6@media.mit.edu
+Postdoctoral Fellow at Center for Behavioral Intervention Technologies\
+Feinberg School of Medicine\
+Northwestern University\
+750 N. Lake Shore Drive, 10th Floor, Chicago, IL, USA\
+sooyeon.jeong@northwestern.edu
 
-Sooyeon Jeong is a PhD candidate at the MIT Media Lab. Her research focuses on designing interactive technologies, such as social robots and embodied conversational agents, that can be deployed in the real world and improve people's wellbeing. She received the Best Paper Award at the RO-MAN conference in 2020, and her research has been featured in popular press outlets, including in the New York Times, the Wired Magazine, CNN International, etc. Sooyeon received her B.S. and M.Eng in Electrical Engineering and Computer Science at MIT and M.S. in Media Arts and Science from MIT Media Lab. 
+Sooyeon Jeong is a NRSA Postdoctoral Fellow at the Center for Behavioral Intervention Technologies at the Feinberg School of Medicine in Northwestern University. Her research focuses on designing and deploying interactive agents that can improve people's lives by providing personalized support based on each user's needs, traits and behaviors. She deploys these agents "in-the-wild" to evaluate how they build relationships/rapport with people over time and improve their wellbeing, health and learning. Sooyeon received the Best Paper Award at the RO-MAN conference in 2020, and her research has been featured in popular press outlets, including in the New York Times, the Wired Magazine, CNN International, etc. She received her B.S. and M.Eng in Electrical Engineering and Computer Science at MIT and M.S. and Ph.D in Media Arts and Science from MIT Media Lab. 
 {: style="text-align: justify"}
 
 ---
