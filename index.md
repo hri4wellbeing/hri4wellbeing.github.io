@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## Human-Robot Interaction for Wellbeing 
-### Socially Adaptive Robots
+### Applications in the Real World
 
 **Full-day Hybrid workshop on September 2nd, 2022 as part of the IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2022)**
 
