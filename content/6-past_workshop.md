@@ -1,5 +1,5 @@
 ---
-title: Past Workshop
+title: In 2022 
 nav: Past Edition
 ---
 
