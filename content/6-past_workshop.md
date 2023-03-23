@@ -1,6 +1,6 @@
 ---
 title: Past Workshop 
-nav: In 2022  
+nav: Previous Workshop  
 ---
 
 
