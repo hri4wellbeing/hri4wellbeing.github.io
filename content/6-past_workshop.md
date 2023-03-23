@@ -1,6 +1,6 @@
 ---
 title: Past Workshop
-nav: Past Workshop
+nav: Past Edition
 ---
 
 
