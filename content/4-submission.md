@@ -3,7 +3,19 @@ title: Submission
 nav: Submission
 ---
 
-TBD...
+## Important Dates
+- Call for papers deadline: TBD 
+- Notification of acceptance: TBD
+- Camera-ready deadline: TBD
+- Workshop day: TBD
+
+## Call for Papers 
+This workshop aims to bring together researchers from the fields of Social Robotics, Human-Robot Interaction, Affective Computing, Wellbeing, Design, Adaptive Machine Learning, Ethics, Social Sciences, etc. to discuss topics related to the use of robots as assistant/companion/coach for wellbeing, the issues they face to personalize to the individual avoiding to being perceived as antisocial or asocial in the domestic context.
+{: style="text-align: justify"}
+
+We invite authors to submit their contributions either regular paper (6-8 pages long) or position papers (2-4 pages long), using the format provided by [RO-MAN](http://ro-man2023.org/paperSubmission/callForPapers). All papers are to be submitted via the submission system of [EasyChair](). 
+{: style="text-align: justify"}
+
 <!---
 
 All questions about submissions should be emailed to <hri4wellbeing@gmail.com>.

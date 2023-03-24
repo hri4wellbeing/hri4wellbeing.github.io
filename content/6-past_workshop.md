@@ -1,5 +1,5 @@
 ---
-title: First Workshop on HRI4Wellbeing
+title: The 1st Workshop on HRI4Wellbeing
 nav: Past Workshop  
 ---
 

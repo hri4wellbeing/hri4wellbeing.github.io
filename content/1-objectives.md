@@ -1,13 +1,11 @@
 ---
-title: Workshop Objectives
+title:
 nav: Objectives
 ---
 
 
-This workshop's main goal is to bring together a multidisciplinary community to identify and overcome major challenges in HRI research to investigate the applications of robots for wellbeing in the real world. The workshop's objectives are the following: i) exploring the crucial issues of robotic applications in the real world; ii) advancing the field of robotics and enhancing public awareness of robotic applications in the real world; and iii) integrating psychology theories and methods into the design of robots for wellbeing.
+This workshop's main goal is to bring together a multidisciplinary community to identify and overcome major challenges in HRI research to investigate the applications of robots for wellbeing in the real world. The specific topics of this workshop sought to address the following open challenges:
 {: style="text-align: justify"}
-
-The specific topics of this workshop sought to address the following open challenges:
 
 #### 1. What are the main opportunities and challenges in the deployment of robots for wellbeing in the real world? 
 The deployment and adoption of robots for wellbeing in the real world have many potentials but also challenges. This workshop seeks to draw a research agenda that encompasses the directions for robotic applications for wellbeing highlighted in the literature and help researchers in the field of robotics identify opportunities and challenges to address in their future work.
