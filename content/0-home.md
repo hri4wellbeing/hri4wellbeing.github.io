@@ -6,7 +6,7 @@ title:
 ### Applications in the Real World
 
 
-{% include figure.html img="minja_robot_pic.jpeg" caption="" width="85%" %}
+{% include figure.html img="minja_robot_pic.jpeg" caption="" width="55%" %}
 
 
 The main topic of our workshop will be robotic applications for wellbeing in the real world, which is strongly in line with the RO-MAN 2023 theme of “Design a New Bridge for H-R-I”, which seeks to address the challenges of developing intelligent robots for human health.

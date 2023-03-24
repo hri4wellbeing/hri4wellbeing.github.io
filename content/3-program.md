@@ -3,6 +3,8 @@ title: Program Schedule
 nav: Program
 ---
 
+<!---
+
 ##### All times are in Central European Time (CET).
 
 
@@ -29,3 +31,5 @@ nav: Program
 | 16:45      | &nbsp; Break                 | 
 | 17:00      | &nbsp; Keynote Talk: Hae Won Park, MIT Media Lab          | 
 | 17:45      | &nbsp; Closing           | 
+
+--> 

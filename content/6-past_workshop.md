@@ -26,6 +26,8 @@ Topics included in the workshop, but not limited to, are the following:
 - Methods to measure wellbeing
 - Ethics, Privacy, and Data Security Considerations
 
+<p>&nbsp;</p>
+
 # Objective 
 
 The main objective of this workshop is to bring together a multidisciplinary group of researchers to identify and address key challenges for studying socio-emotionally adaptive robots for wellbeing and its relevant aspect for socially assistive robots in the lab and in the field. The workshop aims at (1) including the advances in affective computing and machine learning into social robotics context; (2) investigating the crucial topic of wellbeing  in clinical and non-clinical contexts during a post-pandemic era; and (3) advancing the field of social robotics in a situated context focusing on open challenges.
@@ -44,8 +46,9 @@ Within the HRI community, a promising venue to assist people with special needs 
 The robotic applications are spreading out into our everyday lives, leading to a greater understanding that robotic progress influences the human physical and social environments. Nowadays, the robotic field is pivoting towards the wellbeing and healthcare of the present and future generations. In this context, one of the main opportunities and challenges is the reflection on the design of robots for promoting wellbeing, which will be one of the important highlights of our workshop.
 {: style="text-align: justify"}
 
-# Speaker
+<p>&nbsp;</p>
 
+# Speaker
 
 ### Hae Won Park, MIT Media Lab
 {% include figure.html img="haewon_profile.JPG" alt="haewon-pic" caption="" width="25%" %}
@@ -65,7 +68,6 @@ Maja Matarić is a Chan Soon-Shiong distinguished professor of Computer Science,
 {% include figure.html img="RafaPhoto.jpg" alt="rafael-pic" caption="" width="25%" %}
 Rafael A. Calvo, PhD (2000) is Professor at Imperial College London focusing on the design of systems that support wellbeing in areas of mental health, medicine and education, and on the ethical challenges raised by new technologies. In 2015 Calvo was appointed a Future Fellow of the Australian Research Council to study the design of wellbeing-supportive technology.
 {: style="text-align: justify"}
-
 
 <p>&nbsp;</p>
 
@@ -92,8 +94,9 @@ We will divide the audience into three groups (breakout rooms in case of virtual
 Workshop proceedings: We will include the workshop papers into the Workshop Proceedings collection available on arXiv. The papers could be 2-4 pages for short contributions and 6-8 pages for long paper contributions. Authors should use the RO-MAN template (http://www.smile.unina.it/ro-man2022/call-for-papers/) for the submission. Authors will be invited to present their accepted papers in a 15 minutes oral presentation during this workshop.
 Special Issue: We want to publish a Special Issue containing contributions from workshop participants as well as other researchers working on related works to collect the knowledge and insights gained during the workshop. We are currently preparing a Special Issue proposal to be submitted to the International Journal of Social robotics. -->
 
-# Program
+<p>&nbsp;</p>
 
+# Program
 
 ##### All times are in Central European Time (CET).
 
@@ -122,9 +125,9 @@ Special Issue: We want to publish a Special Issue containing contributions from 
 | 17:00      | &nbsp; Keynote Talk: Hae Won Park, MIT Media Lab          | 
 | 17:45      | &nbsp; Closing           | 
 
+<p>&nbsp;</p>
+
 # Organizers
-
-
 
 ### [Micol Spitale](https://micolspitale.com/)
 {% include figure.html img="miafoto.jpg" alt="micole-pic" caption="" width="25%" %}
