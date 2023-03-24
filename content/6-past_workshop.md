@@ -1,5 +1,5 @@
 ---
-title: Past Workshop 
+title:  
 nav: Past Workshop  
 ---
 

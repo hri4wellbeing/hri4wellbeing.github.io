@@ -12,12 +12,16 @@ layout: default
 
 The main topic of our workshop will be robotic applications for wellbeing in the real world, which is strongly in line with the RO-MAN 2023 theme of “Design a New Bridge for H-R-I”, which seeks to address the challenges of developing intelligent robots for human health.
 Robots are becoming more prevalent in our society for task-oriented goals (e.g., cleaning the house, cooking a meal) and social-oriented interactions such as companionship, assistance, and coaching. We expect robots to share our daily lives in our homes, workplaces, and public spaces. 
+{: style="text-align: justify"}
 
 However, most HRI works are limited to lab settings because of several challenges associated with running studies in the real world, such as set-up challenges, ethical concerns,  and host availability, leading to research results that are only valid in lab settings but not in real-world scenarios. Also, the publication of in-the-wild experiments is one of the main barriers to the deployment of robots in the real-world since those studies usually involve less participants, and in turn leading to less statistically significant results. Hence, the HRI field should encourage long-term in-the-wild studies with the target population (even with a small sample size), as they provide contextualised results not achievable in online or lab studies (which can include larger sample sizes). 
+{: style="text-align: justify"}
 
 Previous Human-Robot Interaction (HRI) research has recently concentrated on applications that promote mental and physical wellbeing, such as mindfulness training and rehabilitative physical therapy. Robotic coaches for wellbeing are becoming an increasingly relevant line of research, as people have shown increased interest in using digital tools to improve their wellbeing, especially during the COVID-19 pandemic. In this context, these robots should be able to interact with humans in real-world environments that can be unpredictable and very complex (e.g., social settings with a group of people and interactions with other robots). 
+{: style="text-align: justify"}
 
 Understanding HRI in real-world settings is an essential requirement for developing robotic coaches for wellbeing since it facilitates the generalisation of research, accelerating the deployment and adoption of robots in our everyday lives. For example, imagine a robot placed in a workplace to deliver positive psychology exercises to promote employees’ wellbeing. It can be located in a shared office room, and employees can book their appointment with the robot whenever they need to during the workday. The same situation cannot be replicated in a lab setting, where the place (a lab) and the time (day of the interaction) are decided in advance by the researchers and not freely picked by the employees whenever required.  
+{: style="text-align: justify"}
 
 ### List of Topics
 Topics included in the workshop, but not limited to, are the following:
