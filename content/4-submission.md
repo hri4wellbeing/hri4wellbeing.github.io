@@ -1,5 +1,5 @@
 ---
-title: Submission 
+title: 
 nav: Submission
 ---
 
