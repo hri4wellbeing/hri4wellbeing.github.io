@@ -6,7 +6,7 @@ layout: default
 ## Human-Robot Interaction for Wellbeing 
 ### Applications in the Real World
 
-**Full-day Hybrid workshop on TBD as part of the IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2023)**
+**Full-day hybrid workshop on TBD as part of the IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2023)**
 
 {% include figure.html img="minja_robot_pic.jpeg" caption="" width="95%" %}
 
