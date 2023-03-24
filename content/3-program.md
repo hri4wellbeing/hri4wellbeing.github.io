@@ -3,6 +3,22 @@ title: Program Schedule
 nav: Program
 ---
 
+##### All times are in Korea Standard Time (KST)
+
+| Time       | &nbsp; Program                 | 
+| :---------- | :----------------------- | 
+| 9:30       | &nbsp; Openings                | 
+| 9:40       | &nbsp; Keynote Talk 1: Kerstin Dautenhahn      | 
+| 10:30      | &nbsp; Break                   | 
+| 10:45      | &nbsp; Paper Presentation      |
+| 11:45      | &nbsp; Keynote Talk 2: Tamsin Ford          | 
+| 12:35      | &nbsp; Lunch            | 
+| 14:00      | &nbsp; Keynote Talk 3: Emilia Barakova                | 
+| 14:50      | &nbsp; Break |
+| 15:05      | &nbsp; Paper Presentation |
+| 16:05      | &nbsp; Open floor discussion | 
+| 17:05      | &nbsp; Closing                 | 
+
 <!---
 
 ##### All times are in Central European Time (CET).
