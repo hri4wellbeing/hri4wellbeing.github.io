@@ -3,6 +3,8 @@ title:
 nav: Submission
 ---
 
+<h2 style="text-align: center;"> Important Dates </h2>
+
 - Call for papers deadline: TBD 
 - Notification of acceptance: TBD
 - Camera-ready deadline: TBD
