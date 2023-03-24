@@ -1,9 +1,7 @@
 ---
-title:  
+title: 1st Workshop on HRI4Wellbeing @ IEEE RO-MAN 2022
 nav: Past Workshop  
 ---
-
-## 1st Workshop on HRI4Wellbeing @ IEEE RO-MAN 2022
 
 {% include figure.html img="huggable.jpg" alt="wellbeing-pic" caption="" width="95%" %}
 
