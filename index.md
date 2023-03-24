@@ -3,10 +3,8 @@ title: Home
 layout: default
 ---
 
-<p style="text-align: center;">
-## Human-Robot Interaction for Wellbeing 
-### Applications in the Real World
-</p>
+<h2 style="text-align: center;"> Human-Robot Interaction for Wellbeing </h2>
+<h3 style="text-align: center;">  Applications in the Real World </h3>
 
 **Full-day hybrid workshop on TBD as part of the IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2023)**
 
