@@ -1,5 +1,5 @@
 ---
-title: Keynote Speakers
+title:
 nav: Speakers
 ---
 
