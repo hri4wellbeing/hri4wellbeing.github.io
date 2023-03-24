@@ -1,9 +1,7 @@
 ---
-title: 
+title: Program Schedule
 nav: Program
 ---
-
-<h2 style="text-align: center;"> Program Schedule </h2>
 
 ##### All times are in Korea Standard Time (KST)
 

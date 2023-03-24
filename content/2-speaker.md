@@ -1,9 +1,7 @@
 ---
-title: 
+title: Keynote Speakers
 nav: Speakers
 ---
-
-<h2 style="text-align: center;"> Keynote Speakers </h2>
 
 ### Prof. Kerstin Dautenhahn, University of Waterloo 
 {% include figure.html img="kerstinD.jpeg" caption="" width="25%" %}

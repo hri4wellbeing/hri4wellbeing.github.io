@@ -1,9 +1,7 @@
 ---
-title:
+title: Workshop Objectives
 nav: Objectives
 ---
-
-<h2 style="text-align: center;"> Workshop Objectives </h2>
 
 This workshop's main goal is to bring together a multidisciplinary community to identify and overcome major challenges in HRI research to investigate the applications of robots for wellbeing in the real world. The specific topics of this workshop sought to address the following open challenges:
 {: style="text-align: justify"}

@@ -1,9 +1,9 @@
 ---
-title:  
+title: Paper Submission
 nav: Submission
 ---
 
-<h2 style="text-align: center;"> Important Dates </h2>
+## Important Dates
 
 - Call for papers deadline: TBD 
 - Notification of acceptance: TBD

@@ -1,9 +1,7 @@
 ---
-title: 
+title: Organizing Committee 
 nav: Organizers
 ---
-
-<h2 style="text-align: center;"> Organizing Committee </h2>
 
 #### [Micol Spitale](https://micolspitale.com/), University of Cambridge
 {% include figure.html img="miafoto.jpg" caption="" width="25%" %}
