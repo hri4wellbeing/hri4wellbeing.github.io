@@ -1,9 +1,8 @@
 ---
-title: Submission 
+title:  
 nav: Submission
 ---
 
-## Important Dates
 - Call for papers deadline: TBD 
 - Notification of acceptance: TBD
 - Camera-ready deadline: TBD
