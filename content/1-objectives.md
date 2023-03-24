@@ -1,5 +1,5 @@
 ---
-title:
+title: Objectives
 nav: Objectives
 ---
 

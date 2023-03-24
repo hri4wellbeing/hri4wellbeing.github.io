@@ -1,5 +1,5 @@
 ---
-title:
+title: Organizers
 nav: Organizers
 ---
 

@@ -1,5 +1,5 @@
 ---
-title:
+title: Schedule
 nav: Program
 ---
 
