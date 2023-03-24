@@ -8,7 +8,7 @@ layout: default
 
 **Full-day Hybrid workshop on TBD as part of the IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2023)**
 
-{% include figure.html img="minja_robot_pic.jpeg.jpg" alt="wellbeing-pic" caption="" width="95%" %}
+{% include figure.html img="minja_robot_pic.jpeg.jpg" caption="" width="95%" %}
 
 The main topic of our workshop will be robotic applications for wellbeing in the real world, which is strongly in line with the RO-MAN 2023 theme of “Design a New Bridge for H-R-I”, which seeks to address the challenges of developing intelligent robots for human health.
 Robots are becoming more prevalent in our society for task-oriented goals (e.g., cleaning the house, cooking a meal) and social-oriented interactions such as companionship, assistance, and coaching. We expect robots to share our daily lives in our homes, workplaces, and public spaces. 
