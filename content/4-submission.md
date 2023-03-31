@@ -41,4 +41,4 @@ In tandem with this workshop, we are preparing a Special Issue proposal that we 
 The Special issue has already opened and will stay open until November 30th, 2022 - you can submit to the special issue without submitting to/attending the workshop - but of course we encourage you to do both! All submitted papers will be reviewed as soon as they are received and accepted papers will be published online whilst tthe complete Special Issue is published.
 {: style="text-align: justify"}
 
---> 
+---> 

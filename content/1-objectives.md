@@ -34,4 +34,4 @@ Within the HRI community, a promising venue to assist people with special needs 
 #### 3. Opportunities and Challenges of Designing Robots to Promote Wellbeing 
 The robotic applications are spreading out into our everyday lives, leading to a greater understanding that robotic progress influences the human physical and social environments. Nowadays, the robotic field is pivoting towards the wellbeing and healthcare of the present and future generations. In this context, one of the main opportunities and challenges is the reflection on the design of robots for promoting wellbeing, which will be one of the important highlights of our workshop.
 {: style="text-align: justify"}
--->
+--->
