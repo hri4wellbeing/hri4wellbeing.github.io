@@ -6,7 +6,7 @@ layout: default
 <h1 style="text-align: center;"> Human-Robot Interaction for Wellbeing </h1>
 <h2 style="text-align: center;">  Applications in the Real World </h2>
 
-**Full-day hybrid workshop on TBD as part of the IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2023)**
+**Full-day hybrid workshop on August 28th, 2023 as part of the IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2023)**
 
 {% include figure.html img="minja_robot_pic.jpeg" caption="" width="55%" %}
 
