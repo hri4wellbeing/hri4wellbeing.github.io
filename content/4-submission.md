@@ -5,10 +5,10 @@ nav: Submission
 
 ## Important Dates
 
-- Call for papers deadline: TBD 
-- Notification of acceptance: TBD
-- Camera-ready deadline: TBD
-- Workshop day: Aug 28th, 2023
+- Call for papers deadline: June 15th, 2023 
+- Notification of acceptance: July 14th, 2023
+- Camera-ready deadline: August 1st, 2023
+- Workshop day: August 28th, 2023
 
 ## Call for Papers 
 This workshop aims to bring together researchers from the fields of Social Robotics, Human-Robot Interaction, Affective Computing, Wellbeing, Design, Adaptive Machine Learning, Ethics, Social Sciences, etc. to discuss topics related to the use of robots as assistant/companion/coach for wellbeing, the issues they face to personalize to the individual avoiding to being perceived as antisocial or asocial in the domestic context.
