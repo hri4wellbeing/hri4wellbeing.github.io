@@ -8,16 +8,16 @@ nav: Program
 | Time       | &nbsp; Program                 | 
 | :---------- | :----------------------- | 
 | 9:30       | &nbsp; Openings                | 
-| 9:40       | &nbsp; Keynote Talk 1: Emilia Barakova      | 
+| 9:40       | &nbsp; Keynote Talk 1: Emilia Barakova (in-person talk)      | 
 | 10:30      | &nbsp; Break                   | 
 | 10:45      | &nbsp; Paper Presentation      |
-| 11:45      | &nbsp; Keynote Talk 2: Rafael Calvo          | 
+| 11:45      | &nbsp; Keynote Talk 2: Kerstin Dautenhahn (recorded talk)         | 
 | 12:35      | &nbsp; Lunch            | 
-| 14:00      | &nbsp; Keynote Talk 3: Kerstin Dautenhahn                | 
-| 14:50      | &nbsp; Break |
-| 15:05      | &nbsp; Paper Presentation |
-| 16:05      | &nbsp; Open floor discussion | 
-| 17:05      | &nbsp; Closing                 | 
+| 14:00      | &nbsp; Keynote Talk 3: Tamsin Ford (recorded talk)                | 
+| 14:45      | &nbsp; Break |
+| 15:00      | &nbsp; Paper Presentation |
+| 16:00      | &nbsp; Keynote Talk 4: Rafael Calvo (remote live talk, TBC) | 
+| 16:50      | &nbsp; Closing                 | 
 
 <!---
 
