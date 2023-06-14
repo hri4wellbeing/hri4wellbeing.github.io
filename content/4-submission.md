@@ -5,7 +5,7 @@ nav: Submission
 
 ## Important Dates
 
-- Call for papers deadline: ~~June 15th, 2023 ~~July 10th, 2023
+- Call for papers deadline: ~~June 15th, 2023~~July 10th, 2023
 - Notification of acceptance: ~~July 14th, 2023~~July 24th, 2023
 - Camera-ready deadline: August 1st, 2023
 - Workshop day: August 28th, 2023
