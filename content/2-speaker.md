@@ -11,7 +11,7 @@ Since August 2018 Kerstin Dautenhahn has been Canada 150 Research Chair in Intel
 ---
 
 ### Prof. Rafael A Calvo, Imperial College
-{% include figure.html img="RafaPhoto.jpg" alt="rafael-pic" caption="" width="25%" %}
+{% include figure.html img="RafaPhoto.jpeg" alt="rafael-pic" caption="" width="25%" %}
 **Title:** Design Engineering for Health and Wellbeing
 
 **Abstract:**<br/>
