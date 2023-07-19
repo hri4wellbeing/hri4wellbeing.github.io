@@ -12,15 +12,15 @@ Since August 2018 Kerstin Dautenhahn has been Canada 150 Research Chair in Intel
 
 ### Prof. Rafael A Calvo, Imperial College
 {% include figure.html img="RafaPhoto.jpg" alt="rafael-pic" caption="" width="25%" %}
-**Title: Design Engineering for Health and Wellbeing**
+**Title:** Design Engineering for Health and Wellbeing
 
-**Abstract**
+**Abstract:**<br/>
 In this talk I will provide a new angle to understanding the value of design of robots that support wellbeing in areas of mental health, medicine, and education. This area we call positive computing builds on decades of psychological research on motivation and psychological needs.
 
 Substantial investment from government and commercial organisationsin health technology reflects the opportunities to promote uniquely tailored, data-rich and autonomy-supportive tools at scale.  Still many technologies for health and wellbeing go un-evaluated, lack an evidence base, or fall short of achieving the impact intended.  Among the challenges to success is achieving the deep interdisciplinarity involved, which often requires continuous collaboration among medical professionals, psychologists, HCI researchers, user experience designers, software developers and end-users.  While some projects lack theoretical grounding or an evidence-base, others fail to involve users effectively in order to understand their needs, perceptions and contexts, resulting in technologies that go unused. 
 Working together, researchers in HCI, robotics, health and the social sciences can improve the processes by which technologies are developed and distributed for the benefit of population-wide health and wellbeing.  In this presentation,
 
-**Bio**
+**Bio:**<br/>
 Rafael A. Calvo, PhD (2000) is Professor and Director of Research at the Dyson School of Design Engineering, Imperial College London. He is also co-lead at the Leverhulme Centre for the Future of Intelligence, and co-editor of the IEEE Transactions on Technology and Society. He is director of the Wellbeing Technology  Lab that focuses on the design of systems that support wellbeing in areas of mental health, medicine and education.
 {: style="text-align: justify"}
 
@@ -29,12 +29,12 @@ Rafael A. Calvo, PhD (2000) is Professor and Director of Research at the Dyson S
 ### Prof. Emilia Barakova, Eindhoven University of Technology
 {% include figure.html img="EmiliaWEB.jpg" caption="" width="25%" %}
 
-**Title: Pain and stress management using connected systems of Social Robots and Wearables** 
+**Title:** Pain and stress management using connected systems of Social Robots and Wearables
 
-**Abstract**
+**Abstract:**<br/>
 Addressing pain and stress as interconnected factors is crucial in providing comprehensive care and improving the well-being of individuals experiencing pain. Numerous user groups, including elderly individuals with dementia, individuals with intellectual disabilities, and young children in postoperative care, and children with Autism Spectrum Disorder (ASD), face challenges in accurately expressing their discomfort, pain, and worries. To address these issues, our research leveraged interaction design methods that combine robots, wearables, and mobile apps, to transform social robots into effective tools for promoting positive affect, and distraction from pain and loneliness during assistive tasks. In our robot-assisted therapies, we integrated contextual aspects such as a hospital or care home settings, individual patient/client journeys, and personal needs, along with the active involvement of caregivers and parents. Through this multidimensional approach, we aimed to enhance the overall efficacy and impact of assistive robots, providing tailored support to diverse user populations, and facilitating their well-being and quality of life.
 
-**Bio** 
+**Bio:** <br/>
 Emilia Barakova received her Ph.D. in Mathematics and Natural Sciences from the University of Groningen in 1999, and her master’s degree in Electronics and Automation engineering from the Technical University of Sofia in Bulgaria. She is presently affiliated with the Industrial Design department and serves as the Head of the Social Robotics Lab at the Eindhoven University of Technology. She formerly worked at Riken Brain Science Institute, Wako-shi, Japan, the German-Japanese Robotics Research Lab, Kitakyushu, Japan, the University of Groningen in the Netherlands, and the Bulgarian Academy of Sciences. Barakova specializes in embodied social interaction with and through technology and social and cognitive robotics.  She has expertise in modeling social behavior by merging artificial intelligence, cognitive sciences, and robotics. Her present research focuses on the use of social robots for education and special education (i.e. social skills training of children with autism spectrum disorders),  and enhancing the well-being of people with dementia and intellectual disabilities. Barakova has served as the program chair for several conferences (including IJSR, IEEE RO-MAN, and IEEE Hybrid Intelligent Systems), and she is an Associate Editor of the International Journal of Social Robotics, as well as an editor of Personal and Ubiquitous Computing, Interaction Studies, and Transactions of Human-Machine Systems. She has co-authored over 200 peer-reviewed papers.
 {: style="text-align: justify"}
 
