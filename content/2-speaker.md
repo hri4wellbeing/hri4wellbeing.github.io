@@ -11,7 +11,7 @@ Since August 2018 Kerstin Dautenhahn has been Canada 150 Research Chair in Intel
 ---
 
 ### Prof. Rafael A Calvo, Imperial College
-{% include figure.html img="RafaPhoto.jpeg" alt="rafael-pic" caption="" width="25%" %}
+{% include figure.html img="RafaPhoto.jpg" alt="rafael-pic" caption="" width="25%" %}
 **Title:** Design Engineering for Health and Wellbeing
 
 **Abstract:**<br/>
@@ -27,7 +27,7 @@ Rafael A. Calvo, PhD (2000) is Professor and Director of Research at the Dyson S
 ---
 
 ### Prof. Emilia Barakova, Eindhoven University of Technology
-{% include figure.html img="EmiliaWEB.jpg" caption="" width="25%" %}
+{% include figure.html img="EmiliaWEB.jpeg" caption="" width="25%" %}
 
 **Title:** Pain and stress management using connected systems of Social Robots and Wearables
 
