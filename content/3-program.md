@@ -5,19 +5,18 @@ nav: Program
 
 ##### All times are in Korea Standard Time (KST)
 
-| Time       | &nbsp; Program                 | 
-| :---------- | :----------------------- | 
-| 13:00       | &nbsp; Openings                | 
-| 13:10       | &nbsp; Keynote Talk 1: Emilia Barakova (in-person talk)      | 
-| 14:00      | &nbsp; Break                   | 
-| 14:15      | &nbsp; Paper Presentation      |
-| 15:00      | &nbsp; Break                   | 
-| 15:15      | &nbsp; Keynote Talk 2: Kerstin Dautenhahn (recorded talk)         | 
-| 15:45      | &nbsp; Keynote Talk 3: Tamsin Ford (recorded talk)                | 
-| 16:15      | &nbsp; Break |
-| 16:30      | &nbsp; Open Discussion |
-| 17:00      | &nbsp; Keynote Talk 4: Rafael Calvo (remote live talk, TBC) - 9AM UK Time | 
-| 17:45      | &nbsp; Closing |
+| Time       | &nbsp; Program                                                                 | 
+| :---------- | :-----------------------                                                      | 
+| 13:00       | &nbsp; Opening                                                                | 
+| 13:10       | &nbsp; Keynote Talk 1: Emilia Barakova (in-person talk)                       | 
+| 14:00      | &nbsp; Break                                                                   | 
+| 14:15      | &nbsp; Paper Presentation (3 X 10 mins = 7 mins presentation + 3 mins Q&A)     |
+| 14:45      | &nbsp; Keynote Talk 2: Kerstin Dautenhahn (recorded talk)                      | 
+| 15:15      | &nbsp; Break                                                                   | 
+| 15:30      | &nbsp; Keynote Talk 3: Tamsin Ford (recorded talk)                             | 
+| 16:00      | &nbsp; Discussion with Attendees                                               |
+| 16:30      | &nbsp; Keynote Talk 4: Rafael Calvo (remote live talk)                         |
+| 17:10      | &nbsp; Closing                                                                 | 
 
 <!---
 
